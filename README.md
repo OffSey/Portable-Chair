@@ -33,3 +33,7 @@ If no framework is detected, use:
 ```
 /chair
 ```
+
+## Warning:
+
+I found this old project in my files; I'm sharing it in case you'd like to use the concept :)
